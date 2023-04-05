@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oji3</h1>
-<h3 align="center">developer from Japan</h3>
+<h3 align="center">web developer from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0ji3&label=Profile%20views&color=0e75b6&style=flat" alt="0ji3" /> </p>
 
@@ -13,6 +13,6 @@
 
 <p align="left"> <a href="https://twitter.com/fukuraming" target="blank"><img src="https://img.shields.io/twitter/follow/fukuraming?logo=twitter&style=for-the-badge" alt="fukuraming" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:rocket:Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,docker,nginx,js,ts,react,next,nodejs,nest,solidity,php,laravel,ruby,rails,go,mysql,postgres,ipfs,remix,wordpress,bootstrap&perline=6)](https://skillicons.dev)
