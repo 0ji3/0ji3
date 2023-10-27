@@ -15,4 +15,4 @@
 
 <h3 align="left">:rocket:Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,docker,nginx,js,ts,react,next,nodejs,nest,solidity,php,laravel,ruby,rails,go,mysql,postgres,ipfs,remix,wordpress,bootstrap&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,docker,ts,react,next,nodejs,solidity,php,laravel,ruby,rails,go,mysql,postgres,ipfs,wordpress,bootstrap&perline=5)](https://skillicons.dev)
