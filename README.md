@@ -12,7 +12,3 @@
 <p>&nbsp;<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=0ji3&show_icons=true&locale=en&theme=tokyonight" alt="0ji3" /></p>
 
 <p align="left"> <a href="https://twitter.com/fukuraming" target="blank"><img src="https://img.shields.io/twitter/follow/fukuraming?logo=twitter&style=for-the-badge" alt="fukuraming" /></a> </p>
-
-<h3 align="left">:rocket:Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,docker,ts,react,next,nodejs,solidity,php,laravel,ruby,rails,go,mysql,postgres,ipfs,wordpress,bootstrap&perline=5)](https://skillicons.dev)
